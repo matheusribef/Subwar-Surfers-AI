@@ -1,0 +1,227 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 27.21.14.5671]
+    Renderer: NVIDIA GeForce GTX 1050 Ti
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 3360x1455 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.6f4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Matheus\Desktop\Subway_Surfers_AI\Subway_Surfers_Data\Managed\System.dll (this message is harmless)
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in dailyLetter will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Multiple visibility culling animations in the same hierarchy, animation culling for animation component in pow will be turned off.
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/Animation/Animation.cpp Line: 1759)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 30081. Operation took 24.610501 ms.
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Merge Level Loaded 13
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Chunks Level Loaded 21
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+VerifyDay failed
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+EntryPointNotFoundException: utilityGetBundleVersion
+  at (wrapper managed-to-native) DeviceUtility:utilityGetBundleVersion ()
+  at DeviceUtility.GetBundleVersion () [0x00000] in <filename unknown>:0 
+  at UIVersionLabel.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+playerdata save data path: "C:/Users/Matheus/AppData/LocalLow/Kiloo Games/Subway Surf/playerdata"
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Is low res, no atlas change
+ 
+(Filename: C:/BuildAgent/work/14194e8ce88cdf47/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
