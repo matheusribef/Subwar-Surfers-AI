@@ -33,7 +33,7 @@ class DQN:
         
         #experience replay to avoid outliers
         self.memory = []
-        self.batch_size = 16
+        self.batch_size = 32
         
         #AI model
         self.model = Sequential()
@@ -45,7 +45,8 @@ class DQN:
     def update(self):
         if len(self.memory) < self.batch_size:
             return
-        for state, action, reward, next_state in self.memory:
+        mem_sample = rnd.sample(self.memory, self.batch_size)
+        for state, action, reward, next_state in mem_sample:
             q = self.model.predict(state)
             q_update = self.alpha * (reward + self.gamma * np.max(self.model.predict(next_state)))
             q[0][action] = q_update
