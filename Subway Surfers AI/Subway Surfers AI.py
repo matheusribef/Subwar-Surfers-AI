@@ -16,7 +16,7 @@ from keras.layers import Dense
 from keras.optimizers import Adam
 
 #hyperparameters
-alpha = 0.01
+alpha = 0.1
 gamma = 1
 epsilon = 0.99
 epsilon_decay = 0.99
