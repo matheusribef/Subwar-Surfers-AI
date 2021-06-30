@@ -10,4 +10,4 @@ Position the game in your desktop like this:
 
 In emulator, use 768x1024
 
-![alt text](https://github.com/matheusribef/Subway-Surfers-AI/blob/main/Example.png?raw=true)
+![alt text](https://github.com/matheusribef/Subway-Surfers-AI/blob/main/Subway%20Surfers%20Emulator/Emulator.png?raw=true)
