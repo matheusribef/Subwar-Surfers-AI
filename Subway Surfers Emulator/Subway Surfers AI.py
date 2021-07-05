@@ -37,9 +37,13 @@ class DQN:
         
         #AI model
         self.model = Sequential()
-        self.model.add(Dense(pixels, input_shape=(pixels,), activation='relu'))
-        self.model.add(Dense(pixels, activation='relu'))
-        self.model.add(Dense(possible_moves, activation='linear'))
+        self.model.add(Conv2D(32, (8,8), strides=(4,4), activation='relu', input_shape=(100,100,1)))
+        self.model.add(Conv2D(64, (4,4), strides=(2,2), activation='relu'))
+        self.model.add(Conv2D(64, (2,2), activation='relu'))
+        self.model.add(Flatten())
+        self.model.add(Dense(512, activation='relu'))
+        self.model.add(Dense(256, activation='relu'))
+        self.model.add(Dense(5, activation='linear'))
         self.model.compile(loss='mse', optimizer=Adam(learning_rate=self.alpha))
     
     def update(self):
@@ -92,10 +96,10 @@ def is_alive():
 
 def get_state():
     img = ImageGrab.grab(bbox=(screen_region))
-    img = img.resize((60,60))
+    img = img.resize((100,100))
     img = img.convert('L')
     img = np.array(img)
-    img = img.reshape(1, 3600)
+    img = img.reshape(-1, 100, 100, 1)
     return img
     
 def subway_surfers():
